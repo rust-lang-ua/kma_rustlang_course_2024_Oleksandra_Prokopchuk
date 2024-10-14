@@ -1,4 +1,5 @@
 # INTRO
+format_version = 1
 
 [[exercises]]
 name = "intro1"
