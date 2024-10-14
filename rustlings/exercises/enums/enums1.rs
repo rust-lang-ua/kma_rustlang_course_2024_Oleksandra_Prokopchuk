@@ -1,6 +1,6 @@
 // enums1.rs
-// Make me compile! Execute `rustlings hint enums1` for hints!
-//test
+//done
+
 #[derive(Debug)]
 enum Message {
     Quit,
